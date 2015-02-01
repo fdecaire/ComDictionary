@@ -1,0 +1,2 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ComDictionary\ComDictionary\bin\Debug\ComDictionary.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ComDictionary\ComDictionary\bin\Debug\ComDictionary.tlb
